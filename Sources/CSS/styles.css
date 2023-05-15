@@ -8,6 +8,7 @@ body {
    background-color: lightgrey;
    font-weight: 550;
    color: black;
+   transition: 0.7s ease-in-out;
 }
 
 body.darkMode {
